@@ -2,7 +2,6 @@
 
 - 🔭 Estagiario de TI
 - 🌱 Apredendo NoeJS, MySQl.
-- 💬 Pergunte-me sobre coisas aleatórias... 
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
