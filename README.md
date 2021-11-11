@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Jailson.
 # Sou estudante de Análise e Desenvolvimento de Sistemas em busca de se especializar em desenvolvimento web.
 
-- 🔭 Estagiario de TI
+- 🔭 Estagiario de TI | Consócio Canopus.
 - 🌱 Apredendo NoeJS, MySQl, ReactJS.
 
 <div align="center">
