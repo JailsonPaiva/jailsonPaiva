@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Jailson.
+# Sou um estudante de Análise e Desenvolvimento de Sistemas em busca de se especializar em desenvolvimento web.
 
 - 🔭 Estagiario de TI
-- 🌱 Apredendo NoeJS, MySQl.
-- 😄 Pronouns: Ele/Dele
+- 🌱 Apredendo NoeJS, MySQl, ReactJS.
 
 <div align="center">
   <a href="https://github.com/JailsonPaiva">
