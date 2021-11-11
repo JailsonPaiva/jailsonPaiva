@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Jailson.
-# Sou um estudante de Análise e Desenvolvimento de Sistemas em busca de se especializar em desenvolvimento web.
+# Sou estudante de Análise e Desenvolvimento de Sistemas em busca de se especializar em desenvolvimento web.
 
 - 🔭 Estagiario de TI
 - 🌱 Apredendo NoeJS, MySQl, ReactJS.
