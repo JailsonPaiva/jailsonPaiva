@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Jailson.
 # Sou estudante de Análise e Desenvolvimento de Sistemas em busca de se especializar em desenvolvimento web.
 
-- 🔭 Estagiario de TI.
-- 🌱 Apredendo NoeJS, MongoDB, MySQl, ReactJS.
+- 🔭 Assessor Técnico.
+- 🌱 Apredendo NodeJS, MongoDB, ReactJS.
 
 <div align="center">
   <a href="https://github.com/JailsonPaiva">
