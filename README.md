@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Jailson.
 # Sou estudante de Análise e Desenvolvimento de Sistemas em busca de se especializar em desenvolvimento web.
 
-- 🔭 Assessor Técnico.
+- 🔭 Analista de Sistemas - Agência de Fomento do Estado de Mato Grosso.
 - 🌱 Apredendo NodeJS, MongoDB, ReactJS.
 
 <div align="center">
