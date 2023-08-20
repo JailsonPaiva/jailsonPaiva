@@ -5,7 +5,7 @@ Mas nem tudo são 0 e 1, gosto de filme empolgantes, animes instigantes e com bo
 </p>
 
   - 🔭 Buscando sempre o melhor a cada dia que se passa. <br>
-  - 🌱 Apredendo NodeJS, MongoDB, ReactJS.
+  - 🌱 Apredendo React, Next.JS, Node.JS, MySql..
 
 
 <div align="center">
