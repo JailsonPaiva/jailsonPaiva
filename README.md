@@ -1,11 +1,33 @@
-## Olá! Meu nome é Jailson.
-<p>Explorador do mundo do código, tenho formado em Análise e Desenvolvimento de Sistemas e estou embarcando na jornada de dominar o desenvolvimento web. Com uma paixão por criar maravilhas digitais, estou melhorando meu conhecimento em stacks como React, Next, Node.js e MySQL para construir soluções web envolventes.
+# Hi there, I'm Jailson Paiva 👋
 
-Mas nem tudo são 0 e 1, gosto de filme empolgantes, animes instigantes e com boas histórias e a música que não pode falta na hora de programar. Vamos trilhar este caminho digital juntos!
-</p>
+Full Stack Developer based in **Cork, Ireland**, specializing in building high-performance web applications, RESTful/GraphQL APIs, and event-driven microservices.
 
-  - 🔭 Buscando sempre o melhor a cada dia que se passa. <br>
-  - 🌱 Apredendo React, Next.JS, Node.JS, MySql.
+---
+
+### 🚀 About Me
+- 🔭 **Current Focus:** Full Stack Web Development (React.js, Next.js, TypeScript, Node.js).
+- 💼 **Experience:** 3+ years delivering scalable web systems, distributed billing platforms, and public-sector software solutions.
+- 🏆 **Hackathon Winner:** 1st Place at the AI for Business Hackathon (CEIA-MT, 2025).
+- 🎓 **Education:** Postgraduate in Database Administration | Associate Degree in Systems Analysis & Development.
+- ⚡ **Core Values:** Clean code, test-driven development, and system reliability.
+
+---
+
+### 🛠️ Technical Skills
+
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Angular, Vue.js, Tailwind CSS, Radix UI
+- **Backend & APIs:** Node.js, Express.js, Fastify, PHP (Laravel), RESTful APIs, GraphQL
+- **Databases & ORMs:** PostgreSQL, MSSQL, MySQL, MongoDB, Prisma ORM
+- **DevOps & Architecture:** Docker, RabbitMQ, Nginx, Event-Driven Architecture, Microservices, CI/CD, Git
+- **Testing & Security:** Jest, Integration Testing, OAuth 2.0, JWT
+
+---
+
+### 📫 Connect with Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/jailson-paiva](http://linkedin.com/in/jailson-paiva)
+- 💬 **Stack Overflow:** [stackoverflow.com/users/21450478](http://stackoverflow.com/users/21450478)
+- 📧 **Email:** jailsonp437@gmail.com
 
 
 <div align="center">
